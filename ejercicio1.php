@@ -7,6 +7,7 @@
         
         $integer = 42;
         
+        
         $double = 3.1415;
 
         $string = "Buenas noches";
